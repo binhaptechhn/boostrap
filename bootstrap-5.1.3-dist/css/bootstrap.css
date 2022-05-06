@@ -4025,7 +4025,7 @@ textarea.form-control-lg {
   flex-wrap: inherit;
   align-items: center;
   justify-content: space-between;
-  background-image: url("/anh/bg-header02.31680d18a7b8dd622779.png");
+  background-image: url("/img/bg-header02.31680d18a7b8dd622779.png");
   margin: 0;
 }
 .navbar-brand {
@@ -6335,7 +6335,7 @@ textarea.form-control-lg {
   width: 400px;
   border-right: 1px solid rgba(0, 0, 0, 0.2);
   transform: translateX(-100%);
-  background-image: url("/anh/bg-sidebar.c647809cb4ab89b1bdf8.png");
+  background-image: url("/img/bg-sidebar.c647809cb4ab89b1bdf8.png");
 
 }
 
